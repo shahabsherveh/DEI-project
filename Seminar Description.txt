@@ -1,0 +1,67 @@
+Literature Seminar      
+
+This task is to be completed with your team.
+
+The literature seminar consists of two parts:
+
+Preparing by reading scientific papers and writing answers to the provided questions. Aim for about half of an A4 page per question using a font-size of 12pt. This summary should be uploaded in the student portal (the deadline will be provided in the student portal). In the seminar session, we will make larger groups consisting of 4-5 teams.
+Active participation in the seminar, where we will discuss and share our understanding of the material we have read, based on the written preparation assignment.
+The articles are linked below. You will find scientific papers that we have selected that are relevant to the course, and that we think will be helpful references to complete the written part of the task. 
+
+If you for some reason cannot participate in the seminar, you should contact a teacher to get a make-up assignment. Note that this option should only be used if you really can’t be here, active participation in the seminars will let you learn also about material that you did not read yourself and you will enhance your understanding of the material in interaction with others.  
+
+Edit: In case you will miss the seminar and are planning to turn in the supplementary assignment, please also participate in seminar report writing as it is meant as preparation for the project. The supplementary assignment substitutes solely participation in the seminar on that day, we still request you to prepare one of the questions in the seminar description.
+
+Questions to be prepared by the team   
+
+Questions for the written part of the literature seminar.pdfOpen this document with ReadSpeaker docReader Download Questions for the written part of the literature seminar.pdfOpen this document with ReadSpeaker docReader
+
+ 
+
+Contribution Statement   
+
+Contribution-document-template.docxOpen this document with ReadSpeaker docReader Download Contribution-document-template.docxOpen this document with ReadSpeaker docReader
+
+ 
+
+Articles   
+
+VLDB_paper.pdfDownload VLDB_paper.pdf
+
+streamingvsbatch.pdDownload streamingvsbatch.pd
+
+Storm@twitter.pdfDownload Storm@twitter.pdf
+
+spark_rdd.pdfDownload spark_rdd.pdf
+
+ReviewBigData2013.pdfDownload ReviewBigData2013.pdf
+
+MapReduceOverview.pdDownload MapReduceOverview.pd
+
+hotcloud_spark.pdDownload hotcloud_spark.pd
+
+Heron.pdfDownload Heron.pdf
+
+hdfs_design.pdDownload hdfs_design.pd
+
+Hadoop-BAM.pdfDownload Hadoop-BAM.pdf
+
+hadoop_bioinformatics.pdfDownload hadoop_bioinformatics.pdf
+
+GenomeAnalysisToolkit.pdfDownload GenomeAnalysisToolkit.pdf
+
+Flink.pdfDownload Flink.pdf
+
+DataMiningWithBigData.pdfDownload DataMiningWithBigData.pdf
+
+CloudElasticityElmroth.pdf .pdfDownload CloudElasticityElmroth.pdf .pdf
+
+CeleryIPythonMpi4py.pdfDownload CeleryIPythonMpi4py.pdf
+
+Blamey.pdfDownload Blamey.pdf
+
+bigdatawhitepaper.pdfDownload bigdatawhitepaper.pdf
+
+AndrejAndrejev_IEEE2013.pdfDownload AndrejAndrejev_IEEE2013.pdf
+
+Proactive Autoscaling.pdf
