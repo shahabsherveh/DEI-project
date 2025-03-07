@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+cloud_rc.sh
+clouds.yaml
+auto_complete.rc
