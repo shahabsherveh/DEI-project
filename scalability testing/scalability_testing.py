@@ -50,22 +50,20 @@ def horizontal_scalability_test(job, num_workers):
 
     # load the data
     df = sqlContext.read.json("hdfs://192.168.2.46:9000/data/corpus-webis-tldr-17.json") #.sample(False, data_fraction)
-    df = df.select("subreddit", "content_len")
 
     # time to load in data
     data_load_time = time.perf_counter() - start_time
 
-    
     processing_start_time = time.perf_counter()
     # execute the job function
     result_df = job(df)
+    result_df.count() # force execution
     
     end_time = time.perf_counter()
 
     # time to to perform data processing job
     processing_time = end_time - processing_start_time
     
-
     # total execution time
     execution_time = end_time - start_time
     
