@@ -55,8 +55,8 @@ def horizontal_scalability_test(job, num_workers):
     # time to load in data
     data_load_time = time.perf_counter() - start_time
 
+    
     processing_start_time = time.perf_counter()
-
     # execute the job function
     result_df = job(df)
     
@@ -64,13 +64,14 @@ def horizontal_scalability_test(job, num_workers):
 
     # time to to perform data processing job
     processing_time = end_time - processing_start_time
+    
 
     # total execution time
     execution_time = end_time - start_time
     
     print(f"Test with {num_workers} workers completed in {execution_time:.2f} sec")
     print(f"Time to load in data: {data_load_time:.2f} sec")
-    print(f"Time to perform data processing task: {processing_start_time:.3f} sec")
+    print(f"Time to perform data processing task: {processing_time:.3f} sec")
     
     spark_session.stop()
     
